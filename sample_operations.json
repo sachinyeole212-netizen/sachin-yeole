@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Shoulder Join",
+    "system": "GSD",
+    "code": "GSD_SEW_STRAIGHT_10CM",
+    "repetitions": 2,
+    "seam_length_cm": 25,
+    "spi": 10,
+    "thread_mm_per_stitch": 6.5
+  },
+  {
+    "name": "Side Seam",
+    "system": "MTM",
+    "code": "MTM_SEW_LOCKSTITCH_15CM",
+    "repetitions": 2,
+    "seam_length_cm": 60,
+    "spi": 11,
+    "thread_mm_per_stitch": 7.0
+  }
+]
