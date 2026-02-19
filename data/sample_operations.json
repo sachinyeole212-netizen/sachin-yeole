@@ -1,0 +1,36 @@
+{
+  "operations": [
+    {
+      "name": "Join shoulder seam",
+      "standard": "GSD",
+      "code": "G04_GUIDE_SEAM_10CM",
+      "repeats": 6,
+      "seam_length_cm": 30,
+      "stitch_type": "516_safety",
+      "allowance_pct": 12
+    },
+    {
+      "name": "Start and backtack",
+      "standard": "GSD",
+      "code": "G05_BACK_TACK",
+      "repeats": 2,
+      "allowance_pct": 12
+    },
+    {
+      "name": "Fold and position hem",
+      "standard": "MTM",
+      "code": "M08_FOLD_PART",
+      "repeats": 2,
+      "seam_length_cm": 25,
+      "stitch_type": "301_lockstitch",
+      "allowance_pct": 15
+    },
+    {
+      "name": "Quality check",
+      "standard": "MTM",
+      "code": "M10_CHECK_QUALITY",
+      "repeats": 1,
+      "allowance_pct": 8
+    }
+  ]
+}
